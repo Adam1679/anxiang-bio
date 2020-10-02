@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Learn : muscle : , create : running : and make impact ! : thumbsup :
+bio: Learn, create and make impact !
 
 interests:
   - Natural Language Processing
