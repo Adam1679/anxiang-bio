@@ -79,5 +79,5 @@ url_source = "https://github.com/Adam1679/ConnectE"
 +++
 
 {{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+In this paper, we propose a novel approach for KG entity typing which is trained by jointly utilizing local typing knowledge from existing entity type assertions and global triple knowledge from KGs.
 {{% /alert %}}
