@@ -34,6 +34,12 @@ education:
   - course: Bachelor in Economics
     institution: Southwestern University of Finance and Economics
     year: 2019
+  
+Recent News:
+  - (Text Mining) Optimize PageRank with Graph Attention Netword and it's application in
+    keywords extraction.
+  - (Knowledge Mining, Multimodel) Visual Question Answering with external
+    knowledge graph.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
