@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -36,7 +36,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-09-01"
   date_end = ""
-  description = "Pricing the crowsourcing task to maximize the cost and task
-  completion rate."
+  description = "Pricing the crowsourcing task to maximize the cost and task completion rate."
 
 +++
