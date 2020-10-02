@@ -1,9 +1,9 @@
 +++
-title = "Analyzing Student Behavior in Online Programming Courses"
+title = "Connecting Embeddings for Knowledge Graph Entity Typing"
 date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
+authors = ["Zhao, Yu, "Bohong Liu","Zhang, Anxiang","Xie, Ruobing","Liu, Kang","Wang, Xiaojie"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,14 +18,14 @@ authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Source Themes Conference*"
-publication_short = "In *STC*"
+publication = "In *Association for Computational Linguistics*"
+publication_short = "In *ACL*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+#abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -54,14 +54,14 @@ projects = ["internal-project"]
 slides = "example"
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.aclweb.org/anthology/2020.acl-main.572/"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = ""
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "https://github.com/Adam1679/ConnectE"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
