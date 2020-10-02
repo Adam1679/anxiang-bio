@@ -68,12 +68,12 @@ subtitle = ""
 +++
 ---
 - **2020-09**: Being TA for IDL, (one of) the greatest deep learning course in CMU.
-  Exploring research topics in text mining and question answering.
+  Back to my journey in **text mining** and **question answering**.
 - **2020-08**: Made decision for Phd study. Engineering is too tedious for me.
   Research and learning is what I want. Late decision but worth trying. :running:
-- **2020-04**: My first paper accepted in ACL! 
+- **2020-04**: My first paper accepted in **ACL**! 
 - **2019-08**: Landed American. New life began. :running:
 - **2019-03**: Accepted to a master program in SCS, CMU. :laughing:
-- **2019-04**: Worked with my first CS mentor, Yu Zhao.
+- **2019-04**: Worked with my first CS smentor, Yu Zhao.
 - **2018-09**: Made my decision to study computer science. Hard but worth trying.
 ---
