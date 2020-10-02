@@ -26,11 +26,11 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-    name = "ML & DL"
+    name = "ML&DL"
     tag = "ML"
   
   [[content.filter_button]]
-    name = "System"
+    name = "ML System"
     tag = "system"
 
   [[content.filter_button]]
