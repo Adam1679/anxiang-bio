@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anxiang(Adam) Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,37 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student in School of Computer Science, Carnegie Mellon University.
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: School of Computer Science, Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Learn, create and make impact!
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Natural Language Processing
+  - Knowledge Graph
+  - Graph Mining
+  - Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Information Technology
+    institution: Carnegie Mellon University
+    year: 2020
+  - course: Bachelor in Economics
+    institution: Southwestern University of Finance and Economics
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+email: "anxiangz@andrew.cmu.edu"
 social:
 - icon: envelope
   icon_pack: fas
@@ -61,18 +60,23 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hola! My name **is Anxiang (Adam) Zhang**, a master student in Carnegie Mellon. I'm currently looking for **PhD opportunities in Fall 2021.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a teaching assistant for [Introduction To Deep Learning](https://deeplearning.cs.cmu.edu/F20/index.html) by [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/). My current research interest involves Text Mining, Knowledge Mining and Deep Learning. Also, I'm currently interested in the application of graph neural networks in cross-modality areas, e.g., Visual Question Answering. 
+
+During the master student, I also worked closely with [David Garlan](https://www.cs.cmu.edu/~garlan/) on exploring the visualization and interpretation of game theory and its application in defending security attacks.
+
+Previously, I had a Bachelor in Economics in [Research Institute of Economics and Management](https://e.swufe.edu.cn/RESEARCH.htm) of Southwestern University of Finance and Economics. (Shock?) I worked with Yu Zhao on Knowledge Graph completion. I published this papaer as first co-author in ACL 2020. 
+
+Besides research in text mining, I'm also a mix background student who has wide interests in economics and quantitative trading and playing Texas hold 'em.
