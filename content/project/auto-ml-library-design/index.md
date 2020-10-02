@@ -3,6 +3,8 @@ title: Auto-ML Library Design
 date: 2020-10-02T05:55:35.100Z
 draft: false
 featured: false
+tags:
+  - system
 external_link: http://8.210.65.111/
 image:
   filename: featured.jpg
