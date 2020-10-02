@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Learn :muscle:, create :running: and make impact ! :thumbsup:
+bio: Learn : muscle : , create : running : and make impact ! : thumbsup :
 
 interests:
   - Natural Language Processing
@@ -79,6 +79,6 @@ I'm a teaching assistant for [Introduction To Deep Learning](https://deeplearnin
 
 During the master student, I also worked closely with [David Garlan](https://www.cs.cmu.edu/~garlan/) on exploring the visualization and interpretation of game theory and its application in defending security attacks.
 
-Previously, I had a Bachelor in Economics(:flushed:) in [Research Institute of Economics and Management](https://e.swufe.edu.cn/RESEARCH.htm) of Southwestern University of Finance and Economics. I worked with Yu Zhao on Knowledge Graph completion. I published this papaer as first co-author in ACL 2020. 
+Previously, I had a Bachelor in Economics( : flushed : ) in [Research Institute of Economics and Management](https://e.swufe.edu.cn/RESEARCH.htm) of Southwestern University of Finance and Economics. I worked with Yu Zhao on Knowledge Graph completion. I published this papaer as first co-author in ACL 2020. 
 
 Besides research in text mining, I'm also a mix background student who has wide interests in economics and quantitative trading and playing Texas hold 'em.
