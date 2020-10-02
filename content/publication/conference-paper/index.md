@@ -3,7 +3,7 @@ title = "Connecting Embeddings for Knowledge Graph Entity Typing"
 date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhao, Yu","Zhang, Anxiang","Xie, Ruobing","Liu, Kang","Wang, Xiaojie"]
+authors = ["Zhao, Yu*","Zhang, Anxiang*","Xie, Ruobing","Liu, Kang","Wang, Xiaojie"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
