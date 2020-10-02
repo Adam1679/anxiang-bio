@@ -43,7 +43,7 @@ tags = ["Knowledge Graph"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["kg-type"]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
