@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Master in Information Technology
-    institution: Carnegie Mellon University
+    institution: School of Computer Science, Carnegie Mellon University
     year: 2020
   - course: Bachelor in Economics
     institution: Southwestern University of Finance and Economics
