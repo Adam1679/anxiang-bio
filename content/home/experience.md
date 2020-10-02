@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "School of Computer Science, Carnegie Mellon University"
+  company = "Master of Information Technology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Pittsburgh, USA"
+  date_start = "2019-08-01"
+  date_end = "2020-12-23"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Relevent Coursework:
+  * Multimodel Machinea Learning
+  * Algorithm for NLP
+  * Introduction to Deep Learning(Phd-level) (A+)
+  * Introduction to Machine Learning(Phd-level) (A)
+  * Introduction to Computer System (A)
+  * Machine Learning on Large dataset (A)
+  * Distributed System (A+)
+  * Parallel Computing and Architecture (B+)
   """
 
 [[experience]]
