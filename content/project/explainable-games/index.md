@@ -11,7 +11,7 @@ featured: true
 authors:
   - ""
 tags:
-  - visualization
+  - Visualization
 external_link: http://www.cs.cmu.edu/~garlan/projects.htm
 image:
   filename: featured.jpg
