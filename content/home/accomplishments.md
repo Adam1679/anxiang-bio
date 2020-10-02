@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Kaggle "
+  organization_url = "https://www.kaggle.com/c/ieee-fraud-detection"
+  title = "Silver Medal(Top 4%) in IEEE-Fraud Detection"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-07-01"
   date_end = ""
-  description = ""
+  description = "Used Machine Learning algorithm to detect anomaly transaction."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "China Society for Industrial and Applied Mathematics"
+  organization_url = "http://en.mcm.edu.cn/"
+  title = "National First Price (Top 1%), Chinese University Mathematical Contest of Modeling"
+  url = "http://en.mcm.edu.cn/"
+  certificate_url = ""
+  date_start = "2016-09-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "Pricing the crowsourcing task to maximize the cost and task
+  completion rate."
 
 +++

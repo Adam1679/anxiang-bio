@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2020-12-23"
   description = """
-  Relevent Coursework:
+  **Coursework**:
   * Multimodel Machinea Learning
   * Algorithm for NLP
   * Introduction to Deep Learning(Phd-level) (A+)
@@ -37,12 +37,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Southwestern University of Finance and Economics"
+  company = "Bachelor of Economics"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chengdu, China"
+  date_start = "2015-09-01"
+  date_end = "2019-07-01"
+  description = """
+  **Coursework**:
+  * Data Mining
+  * Operation System
+  * Algorithm
+  * Data Structure
+  """
 
 +++
