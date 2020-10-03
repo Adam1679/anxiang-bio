@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-23"
   description = """
   **Coursework**:
-  * Multimodel Machinea Learning
+  * Multimodel Machine Learning
   * Algorithm for NLP
   * Introduction to Deep Learning(Phd-level) (A+)
   * Introduction to Machine Learning(Phd-level) (A)

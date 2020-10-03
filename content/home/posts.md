@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- **2020-10**: Collaborating with [Ankit Shah](https://ankitshah009.github.io/)
+  and Bhiksha on a sound detection project.
 - **2020-09**: Being TA for IDL, (one of) the greatest deep learning course in CMU.
   Back to my journey in **text mining** and **question answering**.
 - **2020-08**: Made decision for Phd study. Engineering is too tedious for me.

@@ -20,7 +20,7 @@ subtitle = ""
   name = "Programming"
   description = "Python, C++/C, Java"
 [[feature]]
-  icon = "language"
+  icon = "ball-pile"
   icon_pack = "fas"
   name = "Natural Language Processing"
   description = "Pytorch, NLTK, Spacy"
@@ -30,12 +30,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Science"
   description = "Pytorch, Scikit-Learn, Pandas, NumPy, Matplotlib<br>Common Machine Learning Models"
-  
-[[feature]]
-  icon = "tools"
-  icon_pack = "fas"
-  name = "Tools"
-  description = "Git, VS Code, XCode, Jupyter, Linux"
 
 # Uncomment to use emoji icons.
 # [[feature]]

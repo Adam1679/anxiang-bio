@@ -18,13 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Learn, create and make impact !
+bio: I can because I think I can.
 
 interests:
   - Natural Language Processing
-  - Knowledge Graph
-  - Graph Mining
-  - Deep Learning
+  - Knowledge Mining
+  - Multimodel Machine Learning
 
 education:
   courses:
@@ -72,13 +71,25 @@ highlight_name: true
 # - Visitors
 ---
 
-Hola! My name **is Anxiang (Adam) Zhang**, a master student in Carnegie Mellon.
-I'm currently looking for **PhD opportunities in Fall 2021.**
+Hola! My name **is Anxiang (Adam) Zhang**, a master student in Carnegie Mellon,
+specializing in NLP and Deep learning. I'm currently looking for **PhD opportunities in Fall 2021.**.
 
-I'm a teaching assistant for [Introduction To Deep Learning](https://deeplearning.cs.cmu.edu/F20/index.html) by [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/). My current research interest involves Text Mining, Knowledge Mining and Deep Learning. Also, I'm currently interested in the application of graph neural networks in cross-modality areas, e.g., Visual Question Answering. 
+My ultimate research goal is to use a combination of AI technologies to distill
+knowledge from different sources of data, i.e., images, language,
+audio. People live in a multi-model world and automatical knowledge mining from
+cross-modality data could help people deeply understand and easily explore
+information, uncover hidden insights, and find relationships and patterns at
+scale.
 
-During the master student, I also worked closely with [David Garlan](https://www.cs.cmu.edu/~garlan/) on exploring the visualization and interpretation of game theory and its application in defending security attacks.
+I'm currently TAing in [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/)'s
+[Introduction To Deep Learning](https://deeplearning.cs.cmu.edu/F20/index.html)
+course. Also, I'm working on a sound detection project with him, an extented
+project on [NELS](http://nels.cs.cmu.edu/overview/)
 
-Previously, I had a Bachelor in Economics( :flushed: ) in [Research Institute of Economics and Management](https://e.swufe.edu.cn/RESEARCH.htm) of Southwestern University of Finance and Economics. I worked with Yu Zhao on Knowledge Graph completion. I published this papaer as first co-author in ACL 2020. 
+Prior to this, I had a Bachelor in Economics( :flushed: ) in [Research Institute
+of Economics and Management](https://e.swufe.edu.cn/RESEARCH.htm) of
+Southwestern University of Finance and Economics, where I worked with Yu Zhao on
+Knowledge Graph completion and published this paper as first co-author in ACL
+2020. 
 
-Besides research in text mining, I'm also a mix background student who has wide interests in economics and quantitative trading and playing Texas hold 'em.
+Besides, I'm also a mixed background student who has wide interests in economics and quantitative trading and playing Texas hold 'em.
